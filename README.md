@@ -17,3 +17,5 @@ Scrapes main_info( csv file) and also have a small gui for better user interface
 How to use? 
 
 Copy search link and paste into "url" field and press start
+
+scrapes nearly 500-2000 results per minute
